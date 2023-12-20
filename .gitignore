@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+build/
+dist/
+.rasa/
+.idea/
+tests/
+bak/
+log/
+yml-templetes/
+.env
+README.md
+test.py
