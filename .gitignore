@@ -10,5 +10,4 @@ bak/
 log/
 yml-templetes/
 .env
-README.md
 test.py
