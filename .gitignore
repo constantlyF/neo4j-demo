@@ -3,11 +3,7 @@ __pycache__/
 *.py[cod]
 build/
 dist/
-.rasa/
 .idea/
-tests/
 bak/
 log/
-yml-templetes/
 .env
-test.py
